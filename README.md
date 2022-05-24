@@ -120,9 +120,6 @@ python <structure> <path_fold> <name_structure> <--optional>
 ![plot](./GEN/_0.jpg)
 
 
-<!-- CONTACT -->
-## Contact
-- D@RK PH3N!X -
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
